@@ -1,0 +1,18 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/CompleteGraphLaplacian.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/PeakFinding.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/PokemonEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/WienerProcess.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/CompleteGraphLaplacian.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/PeakFinding.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/PokemonEDA.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps6/WienerProcess.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3

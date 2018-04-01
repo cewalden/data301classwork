@@ -1,0 +1,21 @@
+[SubmitApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | CRITICAL] No course id specified. Re-run with --course flag.
+[SubmitApp | ERROR] nbgrader submit failed
+[SubmitApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | INFO] Source: /home/cewalden/project
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cewalden+project+2018-03-20 06:57:45.924142 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment project:
+    Expected:
+    	ProjectGuidelines.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/1_Introduction-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/3_EDA-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/4_Prediction-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/6_Presentation-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/ProjectGuidelines-checkpoint.ipynb: EXTRA
+    	1_Introduction.ipynb: EXTRA
+    	2_TidyAndTest.ipynb: EXTRA
+    	3_EDA.ipynb: EXTRA
+    	4_Prediction.ipynb: EXTRA
+    	6_Presentation.ipynb: EXTRA
+    	ProjectGuidelines.ipynb: OK

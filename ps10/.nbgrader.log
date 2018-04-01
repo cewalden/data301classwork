@@ -1,0 +1,48 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/BasicLaTeX.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/data'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 124, in read_v1
+        nb = _read(source, as_version, **kwargs)
+      File "/opt/conda/lib/python3.6/site-packages/nbformat/__init__.py", line 138, in read
+        with io.open(fp, encoding='utf-8') as f:
+    IsADirectoryError: [Errno 21] Is a directory: 'data'
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'data'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/BasicLaTeX.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/MatplotlibCars.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/MatplotlibExoplanets.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps10/MatplotlibSunspots.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | INFO] Source: /home/cewalden/ps10
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cewalden+ps10+2018-02-22 16:11:45.959229 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps10:
+    Expected:
+    	BasicLaTeX.ipynb: FOUND
+    	MatplotlibCars.ipynb: FOUND
+    	MatplotlibExoplanets.ipynb: FOUND
+    	MatplotlibSunspots.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/BasicLaTeX-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/MatplotlibCars-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/MatplotlibExoplanets-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/MatplotlibSunspots-checkpoint.ipynb: EXTRA
+    	BasicLaTeX.ipynb: OK
+    	MatplotlibCars.ipynb: OK
+    	MatplotlibExoplanets.ipynb: OK
+    	MatplotlibSunspots.ipynb: OK
+[SubmitApp | INFO] Submitted as: data301 ps10 2018-02-22 16:11:45.959229 UTC

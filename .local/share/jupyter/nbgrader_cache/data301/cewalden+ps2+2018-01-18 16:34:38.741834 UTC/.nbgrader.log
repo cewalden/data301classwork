@@ -1,0 +1,272 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | CRITICAL] Bad config encountered during initialization:
+[ValidateApp | CRITICAL] Unrecognized flag: '--course'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler6.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler6
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler6.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler8.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler8b
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler8.ipynb'
+[ValidateApp | CRITICAL] Bad config encountered during initialization:
+[ValidateApp | CRITICAL] Unrecognized flag: '--course'
+[ValidateApp | CRITICAL] Bad config encountered during initialization:
+[ValidateApp | CRITICAL] Unrecognized flag: '--course'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler4
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler4.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler6.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler6
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler6.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler6.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler8.ipynb'
+[ValidateApp | ERROR] Traceback (most recent call last):
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/apps/validateapp.py", line 68, in start
+        validator.validate_and_print(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 257, in validate_and_print
+        results = self.validate(filename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 228, in validate
+        nb = self._preprocess(basename)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/validator.py", line 216, in _preprocess
+        nb = read_nb(filename, as_version=current_nbformat)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 125, in read_v1
+        ValidatorV1().validate_nb(nb)
+      File "/opt/conda/lib/python3.6/site-packages/nbgrader/nbgraderformat/v1.py", line 119, in validate_nb
+        raise ValidationError("Duplicate grade id: {}".format(grade_id))
+    jsonschema.exceptions.ValidationError: Duplicate grade id: projecteuler8b
+    
+[ValidateApp | ERROR] nbgrader encountered a fatal error while trying to validate 'ProjectEuler8.ipynb'
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler4.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler6.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps2/ProjectEuler8.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3

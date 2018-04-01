@@ -1,0 +1,17 @@
+[ValidateApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[ValidateApp | INFO] Validating '/home/cewalden/ps9/CarsGroupAgg.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[ValidateApp | INFO] Validating '/home/cewalden/ps9/TitanicGroupAgg.ipynb'
+[ValidateApp | INFO] Executing notebook with kernel: python3
+[SubmitApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[SubmitApp | INFO] Source: /home/cewalden/ps9
+[SubmitApp | INFO] Destination: /srv/nbgrader/exchange/data301/inbound/cewalden+ps9+2018-02-15 17:13:06.795125 UTC
+[SubmitApp | WARNING] Possible missing notebooks and/or extra notebooks submitted for assignment ps9:
+    Expected:
+    	CarsGroupAgg.ipynb: FOUND
+    	TitanicGroupAgg.ipynb: FOUND
+    Submitted:
+    	.ipynb_checkpoints/CarsGroupAgg-checkpoint.ipynb: EXTRA
+    	.ipynb_checkpoints/TitanicGroupAgg-checkpoint.ipynb: EXTRA
+    	CarsGroupAgg.ipynb: OK
+    	TitanicGroupAgg.ipynb: OK
